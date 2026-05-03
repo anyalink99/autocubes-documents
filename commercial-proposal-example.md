@@ -89,5 +89,5 @@ Project-менеджер Станислав Любинецкий · UX/UI диз
 ---
 
 С уважением,
-[Станислав Люинецкий, Project-менеджер]
-[contact@autocubes.site · https://app.autocubes.site/]
+Станислав Люинецкий, Project-менеджер
+contact@autocubes.site · https://app.autocubes.site/
